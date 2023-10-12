@@ -1,0 +1,77 @@
+
+##########################################
+ByPass auths
+Ip can be Blacklist
+use proxy
+
+spider distributed request
+
+scraping 
+html page response
+href 
+html queue
+
+photo link 
+title
+size
+price
+
+category wise DB
+
+GET and create
+
+product description page only
+
+#########################################################################
+
+https://www.geeksforgeeks.org/difference-between-web-scraping-and-web-crawling/
+
+Web Scraping is about extracting data from one or more websites. 
+1. Sending the request to the target page.
+2. Getting response from the target page.
+3. Parsing and extracting the response.
+4. Download the data. 
+Tools: ProWebScraper, Webscraper.io
+
+#########################################################################
+crawling is about finding or discovering URLs or links on the web
+#########################################################################
+
+SCRAPY Library -> web scraping and web crawling both
+Beautiful Soup -> web scraping only
+
+OXYLABS tool
+
+#########################################################################
+
+Get the data from websites
+- using requests
+
+But Your IP can be blocked
+- use mutiple IPs
+- use OXYLabs tools for rotating IP
+
+Save Data to file
+- file.write
+
+
+####################################
+
+scrapy crawl <name> -o  output.json
+
+#####################################
+
+
+proton VPN
+- tor and VPN
+- number of request (unlimited)
+- block ip params
+- timings
+- captcha check others
+<!-- - create DB -->
+
+
+Crawled 18602 pages (at 235 pages/min), scraped 7913 items (at 131 items/min)
+
+1 hr approx then cancel
+7938 item
